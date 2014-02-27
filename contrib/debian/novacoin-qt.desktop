@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=FreeCoin
+Comment=FreeCoin P2P Cryptocurrency
+Comment[fr]=FreeCoin, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=FreeCoin, eşten eşe kriptografik sanal para birimi
+Exec=/usr/bin/freecoin-qt
+Terminal=false
+Type=Application
+Icon=/usr/share/pixmaps/freecoin80.xpm
+MimeType=x-scheme-handler/freecoin;
+Categories=Office;

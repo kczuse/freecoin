@@ -1,0 +1,5 @@
+freecoin-qt usr/bin
+share/pixmaps/freecoin32.xpm usr/share/pixmaps
+share/pixmaps/freecoin80.xpm usr/share/pixmaps
+debian/freecoin-qt.desktop usr/share/applications
+debian/freecoin-qt.protocol usr/share/kde4/services/
